@@ -1,0 +1,9 @@
+c1ccc(cc1)C(=O)NC(c2cccc(c2)[N+](=O)[O-])NC(=O)c3ccccc3	ZINC000001218780	P10000001	375.384	3.453	6	7	2	0
+Cc1cc(ccc1NC(=S)NC(=O)C(c2ccccc2)c3ccccc3)[N+](=O)[O-]	ZINC000004550549	P10000003	405.479	4.195	7	6	2	0
+c1cc(cc(c1)[N+](=O)[O-])NC(=O)CCCCCCCCCCC(=O)Nc2cccc(c2)[N+](=O)[O-]	ZINC000012428901	P10000002	470.526	6.372	15	10	2	0
+C[C@H]1C[C@@H](C[NH+](C1)CCCNc2ccc(cc2[N+](=O)[O-])C(=O)Nc3ccc(cc3)C(F)(F)F)C	ZINC000020677610	P10000005	479.523	5.393	9	7	3	1
+c1cc(c(cc1[N+](=O)[O-])[N+](=O)[O-])NCCCC[C@@H](C(=O)[O-])Nc2ccc(cc2[N+](=O)[O-])[N+](=O)[O-]	ZINC000089469886	P10000004	477.366	2.459	13	16	2	-1
+C/C(=N\Nc1ccc(cc1[N+](=O)[O-])[N+](=O)[O-])/C[C@H](c2ccccc2)c3c(c4ccccc4oc3=O)[O-]	ZINC000100299612	P10000007	487.448	6.634	8	11	1	-1
+C/C(=N\Nc1ccc(cc1[N+](=O)[O-])[N+](=O)[O-])/C[C@H](c2ccccc2)c3c(c4ccccc4oc3=O)O	ZINC000100299612	P10000008	488.456	6.634	8	11	2	0
+Cc1cc(=O)oc2c1ccc3c2C(=O)C(O3)/N=N/c4ccc(cc4[N+](=O)[O-])[N+](=O)[O-]	ZINC000100499350	P10000006	410.298	3.399	4	12	0	0
+C[C@H](c1ccc(cc1)n2c(cnn2)C(C)(C)C)/[NH+]=N/c3ccc(cc3[N+](=O)[O-])[N+](=O)[O-]	ZINC000254379081	P10000009	424.441	5.095	7	11	1	1
